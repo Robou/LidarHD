@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Pentes_été</name>
+            <uuid>{5f940556-5dba-4fed-9506-3dd26a1b0004}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>90</range>
+        </Properties>
+        <Data>
+            <step r="241" g="249" b="255" pos="0"/>
+            <step r="241" g="249" b="255" pos="0.333333333333"/>
+            <step r="159" g="128" b="68" pos="0.561480686695"/>
+            <step r="128" g="90" b="63" pos="0.777145922747"/>
+            <step r="110" g="62" b="59" pos="0.942489270386"/>
+            <step r="66" g="72" b="58" pos="1"/>
+            <label val="0"/>
+            <label val="30"/>
+            <label val="40"/>
+            <label val="60"/>
+            <label val="80"/>
+            <label val="90"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

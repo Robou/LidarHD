@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Pentes_hiver</name>
+            <uuid>{ef65aa61-8e64-4f8b-82b8-3cf33a5c9052}</uuid>
+            <absolute>1</absolute>
+            <minValue>29.7</minValue>
+            <range>60.3</range>
+        </Properties>
+        <Data>
+            <step r="241" g="249" b="255" pos="0"/>
+            <step r="210" g="250" b="255" pos="0.358369098712"/>
+            <step r="152" g="188" b="206" pos="0.461373390558"/>
+            <step r="159" g="128" b="68" pos="0.542918454936"/>
+            <step r="128" g="90" b="63" pos="0.667381974249"/>
+            <step r="110" g="62" b="59" pos="0.914163090129"/>
+            <step r="66" g="72" b="58" pos="1"/>
+            <label val="0"/>
+            <label val="30"/>
+            <label val="40"/>
+            <label val="50"/>
+            <label val="60"/>
+            <label val="70"/>
+            <label val="80"/>
+            <label val="90"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
